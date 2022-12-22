@@ -9,7 +9,7 @@ Some of the most significant ones are
 ## Part of Speech Tagger
 We incorporate context of a word in our model to assign it a Part of Speech  
 Eg. The word **plant** may be a verb or a noun depending on the context
-> Let's **plant** a tree. --> plant is a verb here  
+> Let's **plant** a tree. --> plant is a Verb here  
 > Photosynthesis is a transfer of energy from the Sun to a **plant**. --> plant is a Noun here
 
 ## Password Strength Classifier
