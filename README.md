@@ -1,6 +1,6 @@
 # NLP_Mini_Projects
 
-This repository various small scale projects based on Natural Language Processing
+This repository various small scale projects based on Natural Language Processing.  
 Some of the most significant ones are 
 > 1. Part of Speech Tagger 
 > 2. Password Strength Classifier
